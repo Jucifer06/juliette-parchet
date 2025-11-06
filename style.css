@@ -1026,16 +1026,13 @@ body {
   justify-content: center;
   align-items: center;
   padding: 40px;
-  width: 100vw;               
-  background-color: #8d191d;  
-  margin: 0;  
 }
 
 .contact-container {
   display: flex;
   width: 95%;
   max-width: 1400px;
-  background-color: transparent;
+  background-color: white;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
